@@ -4,3 +4,9 @@
 body {
   font-family: 'Poppins', sans-serif;
 }
+
+.slider-img{
+    width: 100%;
+    height: 90vh;
+    filter: brightness(60%);
+}

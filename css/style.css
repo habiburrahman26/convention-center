@@ -80,12 +80,12 @@ body {
 /* ----------------------
         Gallery 
 -------------------------*/
-.gellery-photo{
+.gallery-photo{
   transition: all .4s;
 }
 
-.gellery-photo:hover{
-  transform: scaleY(1.05);
+.gallery-photo:hover{
+  transform: scale(1.1);
 }
 
 footer {

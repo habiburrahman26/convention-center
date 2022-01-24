@@ -22,6 +22,10 @@ body {
   color: #91a7ff;
 }
 
+.slider{
+  width: 80%;
+}
+
 /* SLIDER IMG */
 .slider-img {
   width: 100%;
@@ -29,16 +33,16 @@ body {
   filter: brightness(30%);
 }
 
-.btn-main {
+.btn-book {
   text-transform: uppercase;
-  padding: 12px 20px;
+  padding: 10px 28px;
   background-color: #fff;
   color: #3f87f5;
   font-weight: 600;
   transition: all .2s;
 }
 
-.btn-main:hover{
+.btn-book:hover{
   background-color: #3f87f5;
   color: #fff;
 }
